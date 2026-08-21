@@ -4,6 +4,18 @@
         <title>Fredd</title>
         <item>
             <title>1.2.2</title>
+            <pubDate>Fri, 21 Aug 2026 11:17:37 -0700</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://firstlovestudio.github.io/Fredd-Updates/Fredd-1.2.2.zip" length="2081742" type="application/octet-stream" sparkle:edSignature="4DC/lvWoF3Al+YebImAREu9sNIwS4zzIT0cmkh2LbTxz8UlStwaPprhVXYM2vNjuzx5O3IGaSgJNOrNG11onCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://firstlovestudio.github.io/Fredd-Updates/Fredd18-16.delta" sparkle:deltaFrom="16" length="86654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MtnFOdEwTqrm2bgX+Iol4L4eDTYQR70mlxIkfXxGreqm60FgdjmTCFmp4G9nYzlkueB5+aDf4ZnA9CSwXSl0AQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.2.2</title>
             <pubDate>Thu, 20 Aug 2026 22:53:21 -0700</pubDate>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
