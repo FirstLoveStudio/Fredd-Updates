@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Fredd Updates</title>
-    <link>https://firstlovestudio.github.io/Fredd-Updates/</link>
-    <description>Signed updates for Fredd.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Fredd</title>
+        <item>
+            <title>1.2.1</title>
+            <pubDate>Thu, 20 Aug 2026 20:33:05 -0700</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://firstlovestudio.github.io/Fredd-Updates/Fredd-1.2.1.zip" length="2080107" type="application/octet-stream" sparkle:edSignature="HJJALxhdv+zw2hitsuydp6InoVVbnufpfifnt0annimuPR/IvFe+wx6anmWaJUx0hAPkmXy9E9qPhTOqqgvdDg=="/>
+        </item>
+    </channel>
 </rss>
